@@ -1,2 +1,2 @@
-# X Script ==-> Seccion de Diferentes tipos de Scripts =---*  # 
-#=============================================================#
+X Script ==-> Seccion de Diferentes tipos de Scripts    
+
